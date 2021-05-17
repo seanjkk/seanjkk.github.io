@@ -1,0 +1,136 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  min-height: 100%;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+}
+
+#navbar {
+  background-color: white;
+  color: white;
+  font-weight: bold;
+}
+
+#navbar ul {
+  padding: 0;
+  list-style: none;
+}
+
+#navbar li {
+  display: inline;
+}
+
+#navbar a {
+  color: black;
+  text-decoration: none;
+  font-size: 16px;
+  padding-right: 40px;
+}
+
+#navbar color-0 {
+  color: rgb(160, 160, 160);
+}
+
+#navbar color-1 {
+  color: rgb(80, 130, 170);
+}
+
+#navbar color-2 {
+  color: rgb(125, 120, 95);
+}
+
+#navbar color-3 {
+  color: rgb(210, 100, 100);
+}
+
+#navbar color-4 {
+  color: rgb(40, 145, 120);
+}
+
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+  width: 65%;
+  margin: auto;
+  justify-content: center;
+}
+
+.parent ul {
+  list-style: none;
+  max-width: 100%;
+}
+
+.parent a {
+  text-decoration: none;
+}
+
+.box {
+  margin: 5px;
+  text-align: center;
+  flex: 0 1 100px;
+}
+
+.paragraph {
+  display: flex;
+  flex-wrap: wrap;
+  width: 35%;
+  margin:auto;
+  justify-content: center;
+  text-align: left;
+  line-height: 160%;
+  font-weight: normal;
+  font-family: "Verdana";
+}
+
+.albump {
+  display: flex;
+  flex-wrap: wrap;
+  width: 110%;
+  margin:auto;
+  text-align: left;
+  line-height: 120%;
+  font-weight: normal;
+  font-family: "Verdana";
+}
+
+.hlink {
+  color: black;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font: normal Lausanne;
+  place-content: center;
+}
+
+img {
+  max-width: 100%;
+}
+
+.flex-container {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+  
+  padding: 30px;
+  margin: 0;
+  list-style: none;
+}
+
+.flex-item {
+  width: 500px;
+  height: 500px;
+  padding: 10px;
+  margin-bottom: 50px;
+}
+
+
