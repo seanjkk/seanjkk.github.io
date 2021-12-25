@@ -1,0 +1,33 @@
+{% extends 'base.html' %} {% block container %}
+<h2>Update</h2>
+<p>Edit a record in the MongoDB database collection.</p>
+<form method="POST" action="{{ url_for('edit_post', mongoid=mongoid) }}">
+  <p>Your name:<br/>
+    <input type="text" id="fname" name="fname" value="{{doc.name}}" /><br/></p>
+  <p>Movie:<br/>
+    <input type="text" id="fmovie" name="fmovie" value="{{doc.movie}}" /><br/></p>
+  <p>Director:<br/>
+    <input type="text" id="fdirector" name="fdirector" value="{{doc.director}}" /><br/></p>
+  <p>Year released:<br/>
+    <input type="text" id="fyear" name="fyear" value="{{doc.year}}" /><br/></p>
+  <p>Rating:<br/>
+    <select id="frating" name="frating" option="{{doc.rating}}">
+      <option value="&#9733;">&#9733;</option>
+      <option value="&#9733;&#9733;">&#9733;&#9733;</option>
+      <option value="&#9733;&#9733;&#9733;">&#9733;&#9733;&#9733;</option>
+      <option value="&#9733;&#9733;&#9733;&#9733;">&#9733;&#9733;&#9733;&#9733;</option>
+      <option value="&#9733;&#9733;&#9733;&#9733;&#9733;">&#9733;&#9733;&#9733;&#9733;&#9733;</option>
+    </select><br/></p>
+  <p>Review:<br/>
+    <textarea id="freview" name="freview" rows="3" cols="70">{{doc.review}}</textarea><br/></p>
+
+  <p>
+    <input type="submit" class="button1" value="Save" />
+    <a href="{{ url_for('read')}}">
+      <button class="button2">
+        Cancel
+      </button>
+    </a>
+  </p>
+</form>
+{% endblock %}
