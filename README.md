@@ -1,15 +1,19 @@
-## Sean's Portfolio
+## Sean's Data Science Project Portfolio
 
-Hi, I'm Sean, a current Senior at New York University studying Economics and Data Science. Welcome to my portfolio. 
+Hi! I'm Sean, a current Senior at New York University studying Economics and Data Science. Welcome to my portfolio. 
 
-### Project 1: foo
+### [Project 1: CO2 Emissions Project](https://github.com/seanjkk/owid-co2-project)
 
-Sample text
+Overview:
+- Used Python and Pandas to clean and analyze the data set
+- Used Matplotlib and Tableau to create visualizations and an interactive dashboard
 
-### Project 2: bar
+### Project 2: [SQL Query Project]()
 
-Sample text
+Overview:
+- Used SQL
 
-### Project 3: baz
+### Project 3: Web Scraping Project
 
-Sample text
+Overview:
+- Used
