@@ -3,7 +3,7 @@
 
 ### Project 1: [StreetEasy Regression Project](https://github.com/seanjkk/streeteasy-regression-project)
 Overview:
-- Used the Python's Scikit-Learn library to build a multiple linear regression model to predict Manhattan rent prices
+- Used Python's Scikit-Learn library to build a multiple linear regression model to predict Manhattan rent prices
 - Used Python's Pandas and NumPy libraries to clean and manipulate the data set
 - Used Matplotlib to create visualizations 
 
