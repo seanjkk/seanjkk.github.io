@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 
 # Sean's Data Science Portfolio
 
