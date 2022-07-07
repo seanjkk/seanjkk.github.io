@@ -1,5 +1,4 @@
-
-Sean's Data Science Portfolio
+# Sean's Data Science Portfolio
 
 
 ### Project 1: [StreetEasy Regression Project](https://github.com/seanjkk/streeteasy-regression-project)
