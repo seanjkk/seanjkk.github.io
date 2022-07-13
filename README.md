@@ -11,4 +11,4 @@
 
 - Used Python's Pandas library to clean and analyze the data set
 - Used Matplotlib to create visualizations 
-- Used Tableau to build an interactive dashboard
+- Used Tableau to build an interactive dashboard ([Link](https://public.tableau.com/app/profile/sean7198/viz/CarbonDioxideEmissions_16432672351780/Dashboard))
