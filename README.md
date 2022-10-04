@@ -1,13 +1,14 @@
-# Sean's Data Science Portfolio
+# Sean's Data Science and Data Engineering Portfolio
 
+## [Data Science Repository](https://github.com/seanjkk/data-science-21)
 
-### [StreetEasy Regression Project](https://github.com/seanjkk/projects/tree/main/streeteasy-regression-project)
+#### [StreetEasy Regression Project](https://github.com/seanjkk/projects/tree/main/streeteasy-regression-project)
 
 - Used Python(Scikit-Learn) to build a multiple linear regression model to predict rent prices
 - Used Python(Pandas, Numpy) to clean data set
 - Used Matplotlib to create visualizations
 
-### [CO2 Emissions Project](https://github.com/seanjkk/projects/tree/main/co2-emissions-project)
+#### [CO2 Emissions Project](https://github.com/seanjkk/projects/tree/main/co2-emissions-project)
 
 - Used Python(Pandas) to clean and analyze data set
 - Used Python(Matplotlib) to create visualizations
