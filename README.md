@@ -1,6 +1,8 @@
 # Sean's Portfolio
 
-## [Data Science Repository](https://github.com/seanjkk/data-science-21)
+#### [Data Science Repository](https://github.com/seanjkk/data-science-21)
+
+- Repository for data science work
 
 #### [Twitter ETL Football Project](https://github.com/seanjkk/projects/tree/main/twitter-etl-football-project)
 
